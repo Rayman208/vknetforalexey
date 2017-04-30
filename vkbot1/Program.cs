@@ -23,7 +23,7 @@ namespace vkbot1
             #region скрытый
             ApiAuthParams authParams = new ApiAuthParams();
             authParams.Login = "+79006906308";
-            authParams.Password = "newitpark32itpark32";
+            authParams.Password = "";//не скажу
             authParams.Settings = Settings.All;
             authParams.ApplicationId = 5963990;
             #endregion
